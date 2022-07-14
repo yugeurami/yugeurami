@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,3,14,15,18,20,27&height=180&section=footer&text=YUJIN%20KIM&fontSize=100)
 
 <p align="center">
-    <h4>🖥 &nbsp&nbsp<h4>
-    <h4>⌨ &nbsp🖱<h4>
+    <h4 align="center">🖥 &nbsp&nbsp<h4>
+    <h4 align="center">⌨ &nbsp🖱<h4>
 </p>
 <h3 align="center">🛠Tech Stack🛠</h3>
 <p align="center">Techs that i've used al least once</p>
